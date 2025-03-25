@@ -7,15 +7,15 @@
     .galeria {
       display: flex;
       flex-wrap: wrap;
-      gap: 20px;
+      gap: 15px;
       justify-content: center;
     }
     .galeria img {
-      width: 250px;
-      height: 250px;
+      width: 150px;
+      height: 150px;
       object-fit: cover;
       border: 2px solid #ccc;
-      border-radius: 10px;
+      border-radius: 8px;
     }
   </style>
 </head>
